@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Tangerine');
+@import url('https://fonts.googleapis.com/css2?family=Corben');
+.App {
+  text-align: center;
+}
+.centerleft {
+  vertical-align: middle;
+  text-align: center;
+  padding-right: 40px;
+  padding-bottom: 1px;
+}
+.centerright {
+  vertical-align: middle;
+  text-align: center;
+  padding-left: 200px;
+}
+.wrapper {
+  display: table-cell;
+  vertical-align: text-bottom;
+}
+.App-logo {
+  height: 50vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 150vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+main {
+  background-image:url("https://img.rawpixel.com/s3fs-private/rawpixel_images/website_content/rm222batch5-kul-06.jpg?w=800&dpr=1&fit=default&crop=default&q=65&vib=3&con=3&usm=15&bg=F4F4F3&ixlib=js-2.2.1&s=d2728bc971ba2c85ca97ed9a99875cf7");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+h1 {
+  font-family: 'Tangerine';
+  font-size: 25px;
+}
+.fonttext {
+  font-family: 'Corben';
+  font-size: 30px;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
