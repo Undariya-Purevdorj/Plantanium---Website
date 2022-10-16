@@ -82,6 +82,7 @@ export default function Create() {
            className="form-control"
            id="Contact"
            value={form.contact}
+           defaultValue="vincentjsun@gmail.com"
            onChange={(e) => updateForm({ contact: e.target.value })}
          />
        </div>
