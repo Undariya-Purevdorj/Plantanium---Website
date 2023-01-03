@@ -3,8 +3,8 @@
 ----------
 New owners of household creatures have a hard time learning how to care for them. Plantanium has just the right solution to help you along your journey with your new buddy!
 
-Inspiration
------------
+###Inspiration
+
 My family is notorious for killing plants in such little time after they arrive at our house. It's hard to know the conditions and amount of food/water your little creature needs which is why we created this website to help new and experienced owners connect.
 
 What it does
